@@ -34,7 +34,6 @@ namespace Ejercicio_9_Diferencia_de_dos_numeros
             }            
            
             Console.ReadKey();
-
         }
     }
 }
