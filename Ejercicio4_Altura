@@ -1,4 +1,16 @@
-//Declarar variables
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejercicio_4_Estatura
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Declarar variables
              Double EM = 0;
 
             //Entrada
@@ -22,3 +34,6 @@
             }
 
             Console.ReadKey();
+        }
+    }
+}
